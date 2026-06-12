@@ -132,4 +132,4 @@ MIT. See LICENSE file. Use it, check it, break it, improve it.
 
 ## Contact
 
-Reddit: [r/CoherencePhysics](https://www.reddit.com/r/CoherencePhysics/) | [r/EmergentAIPersonas](https://www.reddit.com/r/EmergentAIPersonas/)
+Reddit: [r/EmergentAIPersonas](https://www.reddit.com/r/EmergentAIPersonas/)
